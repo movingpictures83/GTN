@@ -1,0 +1,2 @@
+Prefix plugins/GTN/example/
+Plugin GTN inputfile data/ outputfile WaLeF_gtn.h5
